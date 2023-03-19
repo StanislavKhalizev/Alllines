@@ -1,5 +1,5 @@
 # 移动应用隐私政策
-#1. 移动应用程序隐私政策中使用的术语适用于以下含义:
+# 1. 移动应用程序隐私政策中使用的术语适用于以下含义:
 1.1. 用户-使用应用程序的个人。
 1.2. 应用程序-一组程序，名称（com.alllines.layoutdesign.russia），其着作权人是该公司。
 1.3. 该公司是个人KHALIZEV STANISLAV（以下简称公司），他是该应用程序的开发人员，版权所有者和供应商。
@@ -49,7 +49,7 @@
 8.2. 用户有责任自行熟悉当前版本的策略
 8.3. 在当前版本中进行更改时，会显示上次更新的日期。 除非新版本的政策另有规定，否则新版本的政策自发布之日起生效。
 8.4. 俄罗斯联邦法律应适用于本政策以及用户与公司之间因适用隐私政策而产生的关系。
-#9. 反馈意见
+# 9. 反馈意见
 有关此政策的任何建议或问题应向用户支持服务报告khalizev123@gmail.com
 
 # Mobile App Privacy Policy
@@ -72,7 +72,7 @@
 3.1. The mobile application has access to and uses the following information on your device:
 3.1.1. User data, including first name, last name, email address or phone number.
 3.1.2. Information about the User's Device or data about the use of the Application.
-#4. Purposes of collecting and processing Users' Personal Information
+# 4. Purposes of collecting and processing Users' Personal Information
 4.1. The Application collects and stores only the User's Personal Information that is necessary to provide the services included in the Application.
 4.2. The Company may use the Personal information of the Application User for the following purposes:
 4.2.1. Creating an account for the use of the Application by the User.
@@ -98,12 +98,12 @@
 # 7. Change of Personal information by the User
 7.1. The User has the right to change (update, supplement) the Personal Information provided by him or part of it at any time.
 7.2. In case of termination of the concluded agreement, the User has the right to delete his own personal account independently or by contacting the technical support service of users at the email address khalizev123@gmail.com
-#8. Privacy Policy Changes and Applicable Law
+# 8. Privacy Policy Changes and Applicable Law
 8.1. The Company has the right to make changes to the Policy by posting a new version of the Policy on the Company's website and/or in the Appendix.
 8.2. The User is responsible for self-familiarization with the current version of the Policy
 8.3. When making changes in the current version, the date of the last update is indicated. The new version of the Policy comes into force from the moment it is posted, unless otherwise provided by the new version of the Policy.
 8.4. The law of the Russian Federation shall apply to this Policy and the relations between the User and the Company arising in connection with the application of the Privacy Policy.
-#9. Feedback
+# 9. Feedback
 Any suggestions or questions about this Policy should be reported to the User Support Service khalizev123@gmail.com
 
 
