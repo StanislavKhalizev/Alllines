@@ -1,4 +1,4 @@
-#移动应用隐私政策
+# 移动应用隐私政策
 #1. 移动应用程序隐私政策中使用的术语适用于以下含义:
 1.1. 用户-使用应用程序的个人。
 1.2. 应用程序-一组程序，名称（com.alllines.layoutdesign.russia），其着作权人是该公司。
@@ -53,7 +53,7 @@
 有关此政策的任何建议或问题应向用户支持服务报告khalizev123@gmail.com
 
 # Mobile App Privacy Policy
-#1. The terms used in the Privacy Policy of the mobile application are applied in the following meanings:
+# 1. The terms used in the Privacy Policy of the mobile application are applied in the following meanings:
 1.1. User - an individual using the Application.
 1.2. Application - a set of programs, databases for computers under the name Alllines Layout Design (com.alllines.layoutdesign.russia), the copyright holder of which is the Company.
 1.3. The Company is an individual KHALIZEV STANISLAV (hereinafter referred to as the Company), who is the developer, copyright holder and supplier of the Application.
