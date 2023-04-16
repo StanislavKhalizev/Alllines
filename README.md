@@ -1,7 +1,7 @@
 # 移动应用隐私政策
 # 1. 移动应用程序隐私政策中使用的术语适用于以下含义:
 1.1. 用户-使用应用程序的个人。
-1.2. 应用程序-一组程序，名称（com.alllines.layoutdesign.russia），其着作权人是该公司。
+1.2. 应用程序-一组程序，名称（com.alllines.layoutdesign.play），其着作权人是该公司。
 1.3. 该公司是个人KHALIZEV STANISLAV（以下简称公司），他是该应用程序的开发人员，版权所有者和供应商。
 1.4. 设备-可以访问安装应用程序的互联网的移动技术设备（智能手机，平板电脑或其他设备）。
 1.5. 用户的个人信息-用户在注册（创建帐户）或使用应用程序期间提供的关于他/她自己的个人信息，包括用户的个人数据。 在使用设备上安装的应用程序的过程中自动传输给公司的数据，包括有关用户设备的信息。
@@ -55,7 +55,7 @@
 # Mobile App Privacy Policy
 # 1. The terms used in the Privacy Policy of the mobile application are applied in the following meanings:
 1.1. User - an individual using the Application.
-1.2. Application - a set of programs, databases for computers under the name Alllines Layout Design (com.alllines.layoutdesign.russia), the copyright holder of which is the Company.
+1.2. Application - a set of programs, databases for computers under the name Alllines Layout Design (com.alllines.layoutdesign.play), the copyright holder of which is the Company.
 1.3. The Company is an individual KHALIZEV STANISLAV (hereinafter referred to as the Company), who is the developer, copyright holder and supplier of the Application.
 1.4. Device - a mobile technical device (smartphone, tablet or other device) that has access to the Internet on which the Application is installed.
 1.5. User's personal information - personal information that the User provides about himself/herself when registering (creating an account) or during the use of the Application, including the User's personal data. Data that is automatically transmitted to the Company in the process of using them using the Application installed on the device, including information about the User's Device.
@@ -111,7 +111,7 @@ Any suggestions or questions about this Policy should be reported to the User Su
 # Политика конфиденциальности мобильного приложения
 # 1. Термины, используемые в Политике конфиденциальности мобильного приложения, применяются в следующих значениях:
 1.1. Пользователь - физическое лицо, использующее Приложение.
-1.2. Приложение - совокупность программ, баз данных для ЭВМ под наименованием Alllines Layout design (com.alllines.layoutdesign.russia), правообладателем которого является Компания.
+1.2. Приложение - совокупность программ, баз данных для ЭВМ под наименованием Alllines Layout design (com.alllines.layoutdesign.play), правообладателем которого является Компания.
 1.3. Компания - Физическое лицо Хализев Станислав (KHALIZEV STANISLAV) (далее – Компания), являющееся разработчиком, правообладателем и поставщиком Приложения.
 1.4. Устройство - мобильное техническое устройство (смартфон, планшет или другое устройство), имеющее доступ к сети Интернет, на котором установлено Приложение.
 1.5. Персональная информация Пользователя - персональная информация, которую Пользователь предоставляет о себе самостоятельно при регистрации (создании учётной записи) или в процессе использования Приложения, включая персональные данные Пользователя. Данные, которые автоматически передаются Компании в процессе их использования с помощью установленного на устройстве Приложения, в том числе информация об Устройстве Пользователя.
